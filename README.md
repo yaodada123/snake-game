@@ -16,7 +16,8 @@ npm run start
 
 推荐将本地node环境更改到v10.13.0左右
 
-![play](F:\font-daun-study\ts-learn\snake-game\play.gif)
+[![play](F:\font-daun-study\ts-learn\snake-game\play.gif)](https://github.com/yaodada123/snake-game/blob/main/play.gif?raw=true)
+
 
 
 
